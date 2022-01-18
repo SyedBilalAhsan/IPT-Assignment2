@@ -1,0 +1,118 @@
+﻿Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Removing EventLog source MoniterService.
+Service MoniterService is being removed from the system...
+Service MoniterService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Removing EventLog source MoniterService.
+Service MoniterService is being removed from the system...
+Service MoniterService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Removing EventLog source MoniterService.
+Service MoniterService is being removed from the system...
+Service MoniterService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Removing EventLog source MoniterService.
+Service MoniterService is being removed from the system...
+Service MoniterService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Removing EventLog source MoniterService.
+Service MoniterService is being removed from the system...
+Service MoniterService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe
+Installing service MoniterService...
+Service MoniterService has been successfully installed.
+Creating EventLog source MoniterService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q3\K181133_Q3\bin\Release\K181133_Q3.exe

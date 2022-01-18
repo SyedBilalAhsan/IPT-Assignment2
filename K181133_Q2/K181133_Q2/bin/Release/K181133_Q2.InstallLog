@@ -1,0 +1,97 @@
+﻿Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Installing service RssFeedService...
+Service RssFeedService has been successfully installed.
+Creating EventLog source RssFeedService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Removing EventLog source RssFeedService.
+Service RssFeedService is being removed from the system...
+Service RssFeedService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Installing service RssFeedService...
+Service RssFeedService has been successfully installed.
+Creating EventLog source RssFeedService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Removing EventLog source RssFeedService.
+Service RssFeedService is being removed from the system...
+Service RssFeedService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Installing service RssService...
+Service RssService has been successfully installed.
+Creating EventLog source RssService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Removing EventLog source RssService.
+Service RssService is being removed from the system...
+Service RssService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Installing service RssService...
+Service RssService has been successfully installed.
+Creating EventLog source RssService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Removing EventLog source RssService.
+Service RssService is being removed from the system...
+Service RssService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe
+Installing service RssService...
+Service RssService has been successfully installed.
+Creating EventLog source RssService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q2\K181133_Q2\bin\Release\K181133_Q2.exe

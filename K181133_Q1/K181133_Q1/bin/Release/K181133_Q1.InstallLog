@@ -1,0 +1,63 @@
+﻿Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Uninstalling assembly 'C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.InstallLog
+   assemblypath = C:\Users\hp\Desktop\Fast\7thsemester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Release\K181133_Q1.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.

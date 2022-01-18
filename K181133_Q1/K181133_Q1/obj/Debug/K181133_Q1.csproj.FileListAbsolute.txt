@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Debug\K181133_Q1.exe.config
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Debug\K181133_Q1.exe
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Debug\K181133_Q1.pdb
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.exe
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.pdb
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.csproj.CopyComplete
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.ProjectInstaller.resources
+C:\Users\hp\Desktop\Fast\7th semester\IPT\Assignment2\K181133_Q1\K181133_Q1\obj\Debug\K181133_Q1.csproj.GenerateResource.cache
